@@ -1,0 +1,12 @@
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Persistence.deps.json
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Persistence.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Persistence.pdb
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.csproj.AssemblyReference.cache
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.AssemblyInfoInputs.cache
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.AssemblyInfo.cs
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\refint\GEZ.Persistence.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.pdb
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\ref\GEZ.Persistence.dll

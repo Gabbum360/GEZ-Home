@@ -1,0 +1,12 @@
+C:\Projects\GEZ_Home\GEZ.Core\bin\Debug\net6.0\GEZ.Core.deps.json
+C:\Projects\GEZ_Home\GEZ.Core\bin\Debug\net6.0\GEZ.Core.dll
+C:\Projects\GEZ_Home\GEZ.Core\bin\Debug\net6.0\GEZ.Core.pdb
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.csproj.AssemblyReference.cache
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.AssemblyInfoInputs.cache
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.AssemblyInfo.cs
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.csproj.CoreCompileInputs.cache
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.dll
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\refint\GEZ.Core.dll
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.pdb
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\ref\GEZ.Core.dll

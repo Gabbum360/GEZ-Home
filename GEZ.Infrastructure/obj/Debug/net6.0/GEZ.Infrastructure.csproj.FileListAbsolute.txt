@@ -1,0 +1,12 @@
+C:\Projects\GEZ_Home\GEZ.Infrastructure\bin\Debug\net6.0\GEZ.Infrastructure.deps.json
+C:\Projects\GEZ_Home\GEZ.Infrastructure\bin\Debug\net6.0\GEZ.Infrastructure.dll
+C:\Projects\GEZ_Home\GEZ.Infrastructure\bin\Debug\net6.0\GEZ.Infrastructure.pdb
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.AssemblyInfo.cs
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.dll
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\refint\GEZ.Infrastructure.dll
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.pdb
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\ref\GEZ.Infrastructure.dll

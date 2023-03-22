@@ -1,0 +1,12 @@
+C:\Projects\GEZ_Home\GEZ.ApplicationService\bin\Debug\net6.0\GEZ.ApplicationService.deps.json
+C:\Projects\GEZ_Home\GEZ.ApplicationService\bin\Debug\net6.0\GEZ.ApplicationService.dll
+C:\Projects\GEZ_Home\GEZ.ApplicationService\bin\Debug\net6.0\GEZ.ApplicationService.pdb
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.csproj.AssemblyReference.cache
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.AssemblyInfoInputs.cache
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.AssemblyInfo.cs
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.dll
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\refint\GEZ.ApplicationService.dll
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.pdb
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\ref\GEZ.ApplicationService.dll
