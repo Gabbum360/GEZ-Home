@@ -10,7 +10,7 @@ namespace GEZ.Core.Domain
     {
         public int Id { get;set; }
         public string MeansOfPayment { get;set; }
-        public Decimal MoneyReceived { get;set; }
+        public decimal MoneyReceived { get;set; }
         public DateTime Date { get;set; }
     }
 }

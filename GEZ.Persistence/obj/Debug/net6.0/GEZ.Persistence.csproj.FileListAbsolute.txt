@@ -10,3 +10,10 @@ C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.dll
 C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\refint\GEZ.Persistence.dll
 C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.pdb
 C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\ref\GEZ.Persistence.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Persistence.runtimeconfig.json
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.ApplicationService.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Core.dll
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.ApplicationService.pdb
+C:\Projects\GEZ_Home\GEZ.Persistence\bin\Debug\net6.0\GEZ.Core.pdb
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.csproj.CopyComplete
+C:\Projects\GEZ_Home\GEZ.Persistence\obj\Debug\net6.0\GEZ.Persistence.genruntimeconfig.cache

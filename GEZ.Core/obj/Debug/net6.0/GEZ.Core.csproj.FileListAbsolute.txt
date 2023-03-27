@@ -10,3 +10,5 @@ C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.dll
 C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\refint\GEZ.Core.dll
 C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.pdb
 C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\ref\GEZ.Core.dll
+C:\Projects\GEZ_Home\GEZ.Core\bin\Debug\net6.0\GEZ.Core.runtimeconfig.json
+C:\Projects\GEZ_Home\GEZ.Core\obj\Debug\net6.0\GEZ.Core.genruntimeconfig.cache

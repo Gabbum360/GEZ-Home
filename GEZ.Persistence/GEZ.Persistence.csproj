@@ -18,12 +18,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migration\" />
     <Folder Include="DbConfiguration\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GEZ.ApplicationService\GEZ.ApplicationService.csproj" />
+    <ProjectReference Include="..\GEZ.Core\GEZ.Core.csproj" />
   </ItemGroup>
 
 </Project>

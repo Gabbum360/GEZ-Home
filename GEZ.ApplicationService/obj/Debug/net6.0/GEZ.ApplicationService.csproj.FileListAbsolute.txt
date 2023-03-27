@@ -10,3 +10,5 @@ C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationServ
 C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\refint\GEZ.ApplicationService.dll
 C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.pdb
 C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\ref\GEZ.ApplicationService.dll
+C:\Projects\GEZ_Home\GEZ.ApplicationService\bin\Debug\net6.0\GEZ.ApplicationService.runtimeconfig.json
+C:\Projects\GEZ_Home\GEZ.ApplicationService\obj\Debug\net6.0\GEZ.ApplicationService.genruntimeconfig.cache

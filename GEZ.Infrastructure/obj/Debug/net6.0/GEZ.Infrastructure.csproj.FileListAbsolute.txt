@@ -10,3 +10,5 @@ C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.dll
 C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\refint\GEZ.Infrastructure.dll
 C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.pdb
 C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\ref\GEZ.Infrastructure.dll
+C:\Projects\GEZ_Home\GEZ.Infrastructure\bin\Debug\net6.0\GEZ.Infrastructure.runtimeconfig.json
+C:\Projects\GEZ_Home\GEZ.Infrastructure\obj\Debug\net6.0\GEZ.Infrastructure.genruntimeconfig.cache
