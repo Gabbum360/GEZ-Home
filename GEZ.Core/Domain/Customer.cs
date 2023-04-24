@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace GEZ.Core.Domain
 {
@@ -14,15 +10,15 @@ namespace GEZ.Core.Domain
         public string Email { get; set; }   
         public string MeansOfPayment { get; set; }
 
-        public Customer CreateCustomerDetails(string firstName, string surName, string email, string meansOfPayment)
+        /*public async Task<Customer> CreateCustomerDetails(string firstName, string surName, string email, string meansOfPayment)
         {
             var customer = new Customer();
             customer.FirstName = firstName;
             this.SurName = surName;
-            customer.Email = email; 
+            customer.Email = email;
             customer.MeansOfPayment = meansOfPayment;
             return customer;
-        }
+        }*/
 
         /*public string GenerateMeansOfPayment(string paymentType)
         {
