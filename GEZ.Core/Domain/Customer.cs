@@ -4,25 +4,42 @@ namespace GEZ.Core.Domain
 {
     public class Customer
     {
+        public Customer() { }
+
+        public Customer(Guid id, string firstname, string surname, string email, Payment meansPayment, Contract contractType)
+        {
+            this.Id = id;
+            this.FirstName = firstname;
+            this.SurName = surname;
+            this.Email = email; 
+            this.MeansPayment = meansPayment;
+            this.ContractType = contractType;
+        }
         public Guid Id { get; set; }    
         public string FirstName { get; set; } 
         public string SurName { get;set; }
         public string Email { get; set; }   
-        public string MeansOfPayment { get; set; }
+        public Payment MeansPayment { get; }
+        public Contract ContractType { get;}
+        public List<Customer> ListCustomers { get; }   
 
-        /*public async Task<Customer> CreateCustomerDetails(string firstName, string surName, string email, string meansOfPayment)
+        public static class CustomerFactory
         {
-            var customer = new Customer();
-            customer.FirstName = firstName;
-            this.SurName = surName;
-            customer.Email = email;
-            customer.MeansOfPayment = meansOfPayment;
-            return customer;
-        }*/
+            public static Customer Create(Guid id, string firstname, string surname, string email, Payment meansPayment, Contract contractType)
+            {
+                return new Customer(id, firstname, surname, email, meansPayment, contractType);
+            }
+        }
 
-        /*public string GenerateMeansOfPayment(string paymentType)
+        public Payment GeneratePaymentType(Payment payment)
         {
-            var pay = "gezH (${})";
-        }*/
+            var paymentType = new Payment();
+            var result = paymentType.PaymentMethod;
+            if (result == Payment.PaymentType.Cash)
+                return paymentType;
+            else if (result == Payment.PaymentType.Transfer)
+                return paymentType;
+            return payment;
+        }
     }
 }

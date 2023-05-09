@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Bill\" />
+    <Folder Include="Customer\UseCases\Queries\" />
     <Folder Include="Income\" />
     <Folder Include="Extension\" />
     <Folder Include="Common\" />
@@ -23,6 +24,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GEZ.Core\GEZ.Core.csproj" />
   </ItemGroup>
 
 </Project>

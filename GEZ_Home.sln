@@ -9,13 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FBC8B1F9-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E771FEE1-FEB4-44A6-B267-3BEE56345138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.ApplicationService", "GEZ.ApplicationService\GEZ.ApplicationService.csproj", "{748105BD-B52F-4915-8FAF-CDA8C40ECCB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.ApplicationService", "GEZ.ApplicationService\GEZ.ApplicationService.csproj", "{748105BD-B52F-4915-8FAF-CDA8C40ECCB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Core", "GEZ.Core\GEZ.Core.csproj", "{35664112-9329-4455-B30C-71140F45448D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Core", "GEZ.Core\GEZ.Core.csproj", "{35664112-9329-4455-B30C-71140F45448D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Infrastructure", "GEZ.Infrastructure\GEZ.Infrastructure.csproj", "{EEB415E7-4C87-41CF-B0E9-1E985E4B9722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Infrastructure", "GEZ.Infrastructure\GEZ.Infrastructure.csproj", "{EEB415E7-4C87-41CF-B0E9-1E985E4B9722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Persistence", "GEZ.Persistence\GEZ.Persistence.csproj", "{9910EA0D-231C-4320-930C-D002091D2B3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Persistence", "GEZ.Persistence\GEZ.Persistence.csproj", "{9910EA0D-231C-4320-930C-D002091D2B3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3133BD14-A00B-4E3F-B560-346640230ABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{B35D8707-5AF1-4860-9B43-FE944D9F11E3} = {3133BD14-A00B-4E3F-B560-346640230ABA}
 		{748105BD-B52F-4915-8FAF-CDA8C40ECCB2} = {FBC8B1F9-BC19-4ECC-A1E4-004350173F14}
 		{35664112-9329-4455-B30C-71140F45448D} = {FBC8B1F9-BC19-4ECC-A1E4-004350173F14}
 		{EEB415E7-4C87-41CF-B0E9-1E985E4B9722} = {E771FEE1-FEB4-44A6-B267-3BEE56345138}
