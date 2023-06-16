@@ -18,5 +18,8 @@ namespace GEZ.Persistence
 
         public DbSet<Customer> Customers { get;set; }
         public DbSet<Expense> Expenses { get; set; }
+        public DbSet<Contract> Contracts { get; set; }
+        public DbSet<Address> Addresses { get; set; }
+        public DbSet<Payment> Payments { get; set; }
     }
 }

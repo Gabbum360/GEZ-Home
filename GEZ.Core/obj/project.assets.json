@@ -1337,6 +1337,22 @@
             "rid": "win"
           }
         }
+      },
+      "GEZ.ApplicationService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/GEZ.ApplicationService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GEZ.ApplicationService.dll": {}
+        }
       }
     }
   },
@@ -3851,10 +3867,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "GEZ.ApplicationService/1.0.0": {
+      "type": "project",
+      "path": "../GEZ.ApplicationService/GEZ.ApplicationService.csproj",
+      "msbuildProject": "../GEZ.ApplicationService/GEZ.ApplicationService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GEZ.ApplicationService >= 1.0.0",
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.2",
@@ -3894,7 +3916,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\GEZ_Home\\GEZ.ApplicationService\\GEZ.ApplicationService.csproj": {
+              "projectPath": "C:\\Projects\\GEZ_Home\\GEZ.ApplicationService\\GEZ.ApplicationService.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

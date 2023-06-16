@@ -9,13 +9,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FBC8B1F9-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E771FEE1-FEB4-44A6-B267-3BEE56345138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.ApplicationService", "GEZ.ApplicationService\GEZ.ApplicationService.csproj", "{748105BD-B52F-4915-8FAF-CDA8C40ECCB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.ApplicationService", "GEZ.ApplicationService\GEZ.ApplicationService.csproj", "{748105BD-B52F-4915-8FAF-CDA8C40ECCB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Core", "GEZ.Core\GEZ.Core.csproj", "{35664112-9329-4455-B30C-71140F45448D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Core", "GEZ.Core\GEZ.Core.csproj", "{35664112-9329-4455-B30C-71140F45448D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Infrastructure", "GEZ.Infrastructure\GEZ.Infrastructure.csproj", "{EEB415E7-4C87-41CF-B0E9-1E985E4B9722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Infrastructure", "GEZ.Infrastructure\GEZ.Infrastructure.csproj", "{EEB415E7-4C87-41CF-B0E9-1E985E4B9722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Persistence", "GEZ.Persistence\GEZ.Persistence.csproj", "{9910EA0D-231C-4320-930C-D002091D2B3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GEZ.Persistence", "GEZ.Persistence\GEZ.Persistence.csproj", "{9910EA0D-231C-4320-930C-D002091D2B3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{0DBA9B11-CCDD-457D-A52B-961D6CA213BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{08B1F3D4-5131-42BD-8F81-0CA1CB757A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEZ.Authetication", "GEZ.Authetication\GEZ.Authetication.csproj", "{A766C105-2504-496B-B3AC-18F71E11A15C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +49,10 @@ Global
 		{9910EA0D-231C-4320-930C-D002091D2B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9910EA0D-231C-4320-930C-D002091D2B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9910EA0D-231C-4320-930C-D002091D2B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A766C105-2504-496B-B3AC-18F71E11A15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A766C105-2504-496B-B3AC-18F71E11A15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A766C105-2504-496B-B3AC-18F71E11A15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A766C105-2504-496B-B3AC-18F71E11A15C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +62,7 @@ Global
 		{35664112-9329-4455-B30C-71140F45448D} = {FBC8B1F9-BC19-4ECC-A1E4-004350173F14}
 		{EEB415E7-4C87-41CF-B0E9-1E985E4B9722} = {E771FEE1-FEB4-44A6-B267-3BEE56345138}
 		{9910EA0D-231C-4320-930C-D002091D2B3F} = {E771FEE1-FEB4-44A6-B267-3BEE56345138}
+		{A766C105-2504-496B-B3AC-18F71E11A15C} = {08B1F3D4-5131-42BD-8F81-0CA1CB757A18}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88D62881-053C-4449-A020-8164E827D173}

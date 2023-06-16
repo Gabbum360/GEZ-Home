@@ -26,5 +26,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+#region
+//app.MapPost("/", [fromBody] GetCustomer)
+#endregion
+
 app.Run();
 

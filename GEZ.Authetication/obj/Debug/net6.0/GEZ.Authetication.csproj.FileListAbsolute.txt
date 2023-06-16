@@ -1,0 +1,12 @@
+C:\Projects\GEZ_Home\GEZ.Authetication\bin\Debug\net6.0\GEZ.Authetication.deps.json
+C:\Projects\GEZ_Home\GEZ.Authetication\bin\Debug\net6.0\GEZ.Authetication.dll
+C:\Projects\GEZ_Home\GEZ.Authetication\bin\Debug\net6.0\GEZ.Authetication.pdb
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.csproj.AssemblyReference.cache
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.AssemblyInfoInputs.cache
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.AssemblyInfo.cs
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.csproj.CoreCompileInputs.cache
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.dll
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\refint\GEZ.Authetication.dll
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\GEZ.Authetication.pdb
+C:\Projects\GEZ_Home\GEZ.Authetication\obj\Debug\net6.0\ref\GEZ.Authetication.dll
